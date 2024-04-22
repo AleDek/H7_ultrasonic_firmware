@@ -1,0 +1,13 @@
+app_counter.c:48:6:EnableDacVref	32	static
+app_counter.c:59:6:InitPeriodMeasure	8	static,ignoring_inline_asm
+app_counter.c:83:6:StartCounter	8	static
+app_counter.c:99:6:continuousMeasurement	16	static
+app_counter.c:110:6:N_Measurement	24	static
+app_counter.c:121:6:correctMeasAll	32	static
+app_counter.c:131:8:correctMeas	16	static
+app_counter.c:135:8:statMean	72	static
+app_counter.c:163:8:MeasProcess	8	static
+app_counter.c:180:8:getMeas	8	static
+app_counter.c:195:6:HAL_COMP_TriggerCallback	16	static
+app_counter.c:200:6:TIM2_IRQHandler	8	static
+app_counter.c:214:6:COMP_IRQHandler	8	static

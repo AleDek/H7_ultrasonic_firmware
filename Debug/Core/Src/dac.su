@@ -1,0 +1,4 @@
+dac.c:31:6:MX_DAC1_Init	48	static
+dac.c:67:6:MX_DAC2_Init	48	static
+dac.c:103:6:HAL_DAC_MspInit	24	static
+dac.c:130:6:HAL_DAC_MspDeInit	16	static

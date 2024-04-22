@@ -1,0 +1,17 @@
+log_application.c:57:6:start_acquisition	8	static
+log_application.c:74:6:stop_acquisition	8	static
+log_application.c:91:6:HAL_TIM_TriggerCallback	16	static
+log_application.c:97:6:HAL_ADC_ConvCpltCallback	16	static
+log_application.c:112:6:waitNewData	8	static
+log_application.c:130:6:OpenLogFile	8	static
+log_application.c:142:6:CloseLogFile	8	static
+log_application.c:153:6:WriteDataToFile	16	static
+log_application.c:172:6:CreateInfoFile	4288	static
+log_application.c:200:6:LoggerTaskComplete	32	static
+log_application.c:261:8:getMaxVpp	24	static
+log_application.c:278:6:LoggerTask	16	static
+log_application.c:353:6:bsp_GetAdcValues	16	static
+log_application.c:382:6:my_toggle	8	static
+log_application.c:403:6:DMA1_Stream1_IRQHandler	8	static
+log_application.c:448:6:my_InitADC	72	static
+log_application.c:616:6:my_TIM1_Config	88	static
